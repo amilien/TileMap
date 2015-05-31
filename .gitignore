@@ -1,0 +1,6 @@
+.gradle
+.idea
+build
+*.iml
+import-summary.txt
+local.properties
